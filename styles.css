@@ -1,0 +1,21 @@
+* h1 h4{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.banner{
+    background-image: url(images/slider.img);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 10px;
+    padding-bottom: 250px;
+}
+
+.about{
+    padding-top: 200px;
+}
+
+.skills-padding{
+    padding: 70px 0px;
+}
