@@ -16,6 +16,10 @@
     padding-top: 200px;
 }
 
+.my-image{
+    border-radius: 8px;
+}
+
 .skills-padding{
     padding: 70px 0px;
 }
